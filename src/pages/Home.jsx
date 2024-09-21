@@ -1,4 +1,3 @@
-// Home.jsx
 import React, { useContext, useEffect, useState } from 'react';
 import Header from '../components/Header';
 import CardPizza from '../components/CardPizza';

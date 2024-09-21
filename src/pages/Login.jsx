@@ -1,4 +1,3 @@
-// Login.jsx
 import React, { useState, useContext } from "react";
 import { UserContext } from "../context/UserContext"; // Importar el contexto
 
@@ -19,7 +18,7 @@ const Login = () => {
       return;
     }
 
-    // Login exitoso simulado
+    // Login exitoso
     login(); // Llamar a la función login del UserContext
   };
 
